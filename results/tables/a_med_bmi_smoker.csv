@@ -1,0 +1,5 @@
+bmi_category,bmi_range,members,avg_charges,avg_charges_non_smoker,avg_charges_smoker,smokers
+1: Underweight,< 18.5,20,8852.2,5532.99,18809.83,5
+2: Normal,18.5 - 24.9,225,10409.34,7685.66,19942.22,50
+3: Overweight,25 - 29.9,386,10987.51,8257.96,22495.87,74
+4: Obese,>= 30,706,15572.04,8855.53,41557.99,145

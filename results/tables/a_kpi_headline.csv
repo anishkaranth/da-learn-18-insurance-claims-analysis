@@ -1,0 +1,2 @@
+members,avg_charges,median_charges,total_charges,smoker_pct,avg_charges_smoker,avg_charges_non_smoker,smoker_loading_x,obese_pct,avg_bmi,avg_age,policies,exposure_years,claims,policies_with_claim_pct,claim_frequency,claim_records,total_claim_amount,avg_severity,median_severity,pure_premium,large_loss_share_pct
+1337,13279.12,9386.16,17754185.62,20.49,32050.23,8440.66,3.8,52.8,30.66,39.22,678013,358360.11,36056,5.024,0.10061,26444,59909216.5,2265.51,1172.0,167.18,38.01

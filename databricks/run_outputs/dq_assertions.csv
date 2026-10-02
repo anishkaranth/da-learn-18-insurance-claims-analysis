@@ -1,0 +1,13 @@
+check_name,failed_rows,status
+claim amounts reconcile (fact_motor_claim = fact_motor_policy),0,PASS
+claim_amount > 0,0,PASS
+claim_nb in 0..4,0,PASS
+"exposure in (0, 1]",0,PASS
+fact_medical_member.med_region_key -> dim_med_region,0,PASS
+fact_medical_member.member_id unique,0,PASS
+fact_motor_claim.claim_id unique,0,PASS
+fact_motor_claim.policy_id -> fact_motor_policy,0,PASS
+fact_motor_policy.policy_id unique,0,PASS
+fact_motor_policy.vehicle_key -> dim_vehicle,0,PASS
+medical charges > 0,0,PASS
+"medical smoker_flag in {0,1}",0,PASS

@@ -1,0 +1,3 @@
+smoker_status,members,avg_charges,median_charges,total_charges,share_of_total_charges_pct
+non-smoker,1063,8440.66,7345.73,8972422.06,50.54
+smoker,274,32050.23,34456.35,8781763.56,49.46

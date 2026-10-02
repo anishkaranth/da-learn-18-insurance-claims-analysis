@@ -1,0 +1,17 @@
+check_name,affected_rows
+RI: fact_medical_member rows lost in dim joins,0
+RI: fact_motor_policy rows lost in dim joins,0
+"medical: charges outlier (> Q3 + 1.5*IQR, kept)",139
+medical: charges top 1% (kept),13
+medical: exact duplicate rows dropped,1
+medical: rows dropped in cleaning (total),1
+"motor_claim: large losses (top 1%, kept)",266
+"motor_claim: orphan claims (IDpol not in policy file, dropped)",195
+motor_policy: ClaimNb > 0 but no severity record,9116
+motor_policy: ClaimNb > 4 (capped at 4),9
+"motor_policy: DrivAge > 90 (flagged, kept)",401
+motor_policy: Exposure > 1 year (capped at 1),1224
+"motor_policy: VehAge > 30 (flagged, kept)",1116
+motor_policy: duplicate IDpol,0
+motor_policy: rows dropped in cleaning (total),0
+motor_policy: severity records <> ClaimNb (both > 0),1

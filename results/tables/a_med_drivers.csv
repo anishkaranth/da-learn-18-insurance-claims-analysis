@@ -1,0 +1,9 @@
+driver,corr_with_charges
+age,0.2983
+age (non-smokers),0.6274
+bmi,0.1984
+bmi (non-smokers),0.0841
+bmi (smokers),0.8065
+children,0.0674
+obese_flag,0.2003
+smoker_flag,0.7872

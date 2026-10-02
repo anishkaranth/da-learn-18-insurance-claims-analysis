@@ -1,0 +1,13 @@
+entity,raw_rows,distinct_keys,clean_rows,grain
+dim_area,,,6,area code A-F
+dim_bmi_category,,,4,WHO BMI class
+dim_driver_age_band,,,8,driver age band
+dim_fr_region,,,22,French region
+dim_med_region,,,4,US region
+dim_vehicle,,,235,brand + fuel + power
+fact_medical_member,,,1337,member
+fact_motor_claim,,,26444,claim
+fact_motor_policy,,,678013,policy
+medical,1338,1337,1337,all 7 columns (no natural key)
+motor_claim,26639,24950,26444,claim row (IDpol repeats)
+motor_policy,678013,678013,678013,IDpol
