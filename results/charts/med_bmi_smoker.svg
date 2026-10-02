@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420.151953pt" height="244.191016pt" viewBox="0 0 420.151953 244.191016" version="1.1" font-family="sans-serif">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 244 L 420 244 L 420 0 L 0 0 z" style="fill:#ffffff"/>
+<path d="M 56 221 L 413 221 L 413 21 L 56 21 z" style="fill:#ffffff"/>
+<path d="M 72 221 L 105 221 L 105 199 L 72 199 z" style="fill:#81b29a"/>
+<path d="M 158 221 L 191 221 L 191 190 L 158 190 z" style="fill:#81b29a"/>
+<path d="M 245 221 L 278 221 L 278 188 L 245 188 z" style="fill:#81b29a"/>
+<path d="M 331 221 L 364 221 L 364 186 L 331 186 z" style="fill:#81b29a"/>
+<path d="M 105 221 L 138 221 L 138 146 L 105 146 z" style="fill:#e07a5f"/>
+<path d="M 191 221 L 224 221 L 224 141 L 191 141 z" style="fill:#e07a5f"/>
+<path d="M 278 221 L 310 221 L 310 131 L 278 131 z" style="fill:#e07a5f"/>
+<path d="M 364 221 L 397 221 L 397 55 L 364 55 z" style="fill:#e07a5f"/>
+<defs>
+<path id="m782c3c59b5" d="M 0 0 L 0 4" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#m782c3c59b5" x="105" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="105" y="235">Underweight</text>
+<use xlink:href="#m782c3c59b5" x="191" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="191" y="235">Normal</text>
+<use xlink:href="#m782c3c59b5" x="278" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="278" y="235">Overweight</text>
+<use xlink:href="#m782c3c59b5" x="364" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="364" y="235">Obese</text>
+<defs>
+<path id="m8e98dc643e" d="M 0 0 L -4 0" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#m8e98dc643e" x="56" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="49" y="224">0</text>
+<use xlink:href="#m8e98dc643e" x="56" y="181" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="49" y="184">10000</text>
+<use xlink:href="#m8e98dc643e" x="56" y="141" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="49" y="144">20000</text>
+<use xlink:href="#m8e98dc643e" x="56" y="101" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="49" y="104">30000</text>
+<use xlink:href="#m8e98dc643e" x="56" y="61" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="49" y="64">40000</text>
+<text style="font-size:9px; text-anchor:middle" x="14" y="121" transform="rotate(-90 14 121)">Avg charges (USD)</text>
+<path d="M 56 221 L 56 21" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 56 221 L 413 221" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="121" y="144">$18.8k</text>
+<text style="font-size:7px; text-anchor:middle" x="208" y="139">$19.9k</text>
+<text style="font-size:7px; text-anchor:middle" x="294" y="129">$22.5k</text>
+<text style="font-size:7px; text-anchor:middle" x="380" y="53">$41.6k</text>
+<text style="font-size:10.8px; text-anchor:middle" x="234" y="15">Medical: obesity x smoking interaction</text>
+<path d="M 62 33 L 76 33 L 76 28 L 62 28 z" style="fill:#81b29a"/>
+<text style="font-size:7px; text-anchor:start" x="82" y="33">non-smoker</text>
+<path d="M 62 44 L 76 44 L 76 39 L 62 39 z" style="fill:#e07a5f"/>
+<text style="font-size:7px; text-anchor:start" x="82" y="44">smoker</text>
+</svg>
