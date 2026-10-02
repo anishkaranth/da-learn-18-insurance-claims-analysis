@@ -1,0 +1,30 @@
+// measures.dax - DAX measures for the insurance star schemas (create in a "_Measures" table)
+// Definitions match sql/04_analysis.sql.
+
+// ---------- medical
+Members = COUNTROWS ( fact_medical_member )
+Total Charges = SUM ( fact_medical_member[charges] )
+Avg Charges = AVERAGE ( fact_medical_member[charges] )
+Median Charges = MEDIAN ( fact_medical_member[charges] )
+Smokers = CALCULATE ( [Members], fact_medical_member[smoker_flag] = 1 )
+Smoker % = DIVIDE ( [Smokers], [Members] )
+Avg Charges Smoker = CALCULATE ( [Avg Charges], fact_medical_member[smoker_flag] = 1 )
+Avg Charges Non-Smoker = CALCULATE ( [Avg Charges], fact_medical_member[smoker_flag] = 0 )
+Smoker Loading x = DIVIDE ( [Avg Charges Smoker], [Avg Charges Non-Smoker] )
+Obese % = DIVIDE ( CALCULATE ( [Members], fact_medical_member[obese_flag] = 1 ), [Members] )
+Avg BMI = AVERAGE ( fact_medical_member[bmi] )
+Share of Total Charges = DIVIDE ( [Total Charges], CALCULATE ( [Total Charges], ALL ( fact_medical_member ) ) )
+
+// ---------- motor
+Policies = COUNTROWS ( fact_motor_policy )
+Exposure Years = SUM ( fact_motor_policy[exposure] )
+Claims = SUM ( fact_motor_policy[claim_nb] )
+Claim Frequency = DIVIDE ( [Claims], [Exposure Years] )
+Claims per 100 Policy-Years = 100 * [Claim Frequency]
+Policies With Claim % = DIVIDE ( CALCULATE ( [Policies], fact_motor_policy[has_claim] = 1 ), [Policies] )
+Claim Amount = SUM ( fact_motor_claim[claim_amount] )
+Claim Records = COUNTROWS ( fact_motor_claim )
+Avg Severity = DIVIDE ( [Claim Amount], [Claim Records] )
+Median Severity = MEDIAN ( fact_motor_claim[claim_amount] )
+Pure Premium = DIVIDE ( SUM ( fact_motor_policy[claim_amount_total] ), [Exposure Years] )
+Large Loss Share = DIVIDE ( CALCULATE ( [Claim Amount], fact_motor_claim[is_large_loss] = 1 ), [Claim Amount] )
