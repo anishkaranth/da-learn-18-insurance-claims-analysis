@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="913.958734pt" height="1114.764922pt" viewBox="0 0 913.958734 1114.764922" version="1.1" font-family="sans-serif">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 1115 L 914 1115 L 914 0 L 0 0 z" style="fill:#ffffff"/>
+<path d="M 86 266 L 426 266 L 426 99 L 86 99 z" style="fill:#ffffff"/>
+<path d="M 101 266 L 239 266 L 239 232 L 101 232 z" style="fill:#81b29a"/>
+<path d="M 273 266 L 410 266 L 410 137 L 273 137 z" style="fill:#e07a5f"/>
+<defs>
+<path id="mbaac55092d" d="M 0 0 L 0 4" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#mbaac55092d" x="170" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="170" y="280">non-smoker</text>
+<use xlink:href="#mbaac55092d" x="342" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="342" y="280">smoker</text>
+<defs>
+<path id="me6a6efc77e" d="M 0 0 L -4 0" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#me6a6efc77e" x="86" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="269">0</text>
+<use xlink:href="#me6a6efc77e" x="86" y="246" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="249">5000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="226" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="229">10000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="206" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="209">15000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="186" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="189">20000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="166" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="169">25000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="146" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="149">30000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="126" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="129">35000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="106" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="109">40000</text>
+<text style="font-size:9px; text-anchor:middle" x="44" y="182" transform="rotate(-90 44 182)">Avg annual charges (USD)</text>
+<path d="M 86 266 L 86 99" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 86 266 L 426 266" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:8px" transform="translate(156 219)">$8,441</text>
+<text style="font-size:8px" transform="translate(154 229)">n=1063</text>
+<text style="font-size:8px" transform="translate(325 123)">$32,050</text>
+<text style="font-size:8px" transform="translate(328 132)">n=274</text>
+<text style="font-size:10.8px; text-anchor:middle" x="256" y="93">Medical: smokers cost ~3.8x more</text>
+<path d="M 528 266 L 867 266 L 867 99 L 528 99 z" style="fill:#ffffff"/>
+<path d="M 543 266 L 568 266 L 568 250 L 543 250 z" style="fill:#81b29a"/>
+<path d="M 608 266 L 633 266 L 633 243 L 608 243 z" style="fill:#81b29a"/>
+<path d="M 673 266 L 697 266 L 697 236 L 673 236 z" style="fill:#81b29a"/>
+<path d="M 738 266 L 762 266 L 762 221 L 738 221 z" style="fill:#81b29a"/>
+<path d="M 802 266 L 827 266 L 827 209 L 802 209 z" style="fill:#81b29a"/>
+<path d="M 568 266 L 592 266 L 592 155 L 568 155 z" style="fill:#e07a5f"/>
+<path d="M 633 266 L 657 266 L 657 152 L 633 152 z" style="fill:#e07a5f"/>
+<path d="M 697 266 L 722 266 L 722 140 L 697 140 z" style="fill:#e07a5f"/>
+<path d="M 762 266 L 787 266 L 787 124 L 762 124 z" style="fill:#e07a5f"/>
+<path d="M 827 266 L 852 266 L 852 107 L 827 107 z" style="fill:#e07a5f"/>
+<use xlink:href="#mbaac55092d" x="568" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="568" y="280">18-24</text>
+<use xlink:href="#mbaac55092d" x="633" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="633" y="280">25-34</text>
+<use xlink:href="#mbaac55092d" x="697" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="697" y="280">35-44</text>
+<use xlink:href="#mbaac55092d" x="762" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="762" y="280">45-54</text>
+<use xlink:href="#mbaac55092d" x="827" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="827" y="280">55-64</text>
+<text style="font-size:9px; text-anchor:middle" x="697" y="293">Age band</text>
+<use xlink:href="#me6a6efc77e" x="528" y="266" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="269">0</text>
+<use xlink:href="#me6a6efc77e" x="528" y="246" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="249">5000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="226" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="229">10000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="206" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="209">15000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="186" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="189">20000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="166" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="169">25000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="146" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="149">30000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="126" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="129">35000</text>
+<use xlink:href="#me6a6efc77e" x="528" y="106" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="109">40000</text>
+<text style="font-size:9px; text-anchor:middle" x="486" y="182" transform="rotate(-90 486 182)">Avg charges (USD)</text>
+<path d="M 528 266 L 528 99" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 528 266 L 867 266" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:10.8px; text-anchor:middle" x="697" y="93">Medical: charges rise with age in both groups</text>
+<path d="M 534 111 L 548 111 L 548 106 L 534 106 z" style="fill:#81b29a"/>
+<text style="font-size:7px; text-anchor:start" x="553" y="111">non-smoker</text>
+<path d="M 534 121 L 548 121 L 548 116 L 534 116 z" style="fill:#e07a5f"/>
+<text style="font-size:7px; text-anchor:start" x="553" y="121">smoker</text>
+<path d="M 86 532 L 426 532 L 426 366 L 86 366 z" style="fill:#ffffff"/>
+<path d="M 101 532 L 133 532 L 133 514 L 101 514 z" style="fill:#81b29a"/>
+<path d="M 184 532 L 215 532 L 215 507 L 184 507 z" style="fill:#81b29a"/>
+<path d="M 266 532 L 297 532 L 297 505 L 266 505 z" style="fill:#81b29a"/>
+<path d="M 348 532 L 379 532 L 379 503 L 348 503 z" style="fill:#81b29a"/>
+<path d="M 133 532 L 164 532 L 164 470 L 133 470 z" style="fill:#e07a5f"/>
+<path d="M 215 532 L 246 532 L 246 466 L 215 466 z" style="fill:#e07a5f"/>
+<path d="M 297 532 L 328 532 L 328 457 L 297 457 z" style="fill:#e07a5f"/>
+<path d="M 379 532 L 410 532 L 410 394 L 379 394 z" style="fill:#e07a5f"/>
+<use xlink:href="#mbaac55092d" x="133" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="133" y="546">Underweight</text>
+<use xlink:href="#mbaac55092d" x="215" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="215" y="546">Normal</text>
+<use xlink:href="#mbaac55092d" x="297" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="297" y="546">Overweight</text>
+<use xlink:href="#mbaac55092d" x="379" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="379" y="546">Obese</text>
+<use xlink:href="#me6a6efc77e" x="86" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="536">0</text>
+<use xlink:href="#me6a6efc77e" x="86" y="499" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="502">10000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="466" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="469">20000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="432" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="436">30000</text>
+<use xlink:href="#me6a6efc77e" x="86" y="399" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="402">40000</text>
+<text style="font-size:9px; text-anchor:middle" x="44" y="449" transform="rotate(-90 44 449)">Avg charges (USD)</text>
+<path d="M 86 532 L 86 366" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 86 532 L 426 532" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="148" y="468">$18.8k</text>
+<text style="font-size:7px; text-anchor:middle" x="230" y="464">$19.9k</text>
+<text style="font-size:7px; text-anchor:middle" x="312" y="456">$22.5k</text>
+<text style="font-size:7px; text-anchor:middle" x="395" y="392">$41.6k</text>
+<text style="font-size:10.8px; text-anchor:middle" x="256" y="360">Medical: obesity x smoking interaction</text>
+<path d="M 92 377 L 106 377 L 106 372 L 92 372 z" style="fill:#81b29a"/>
+<text style="font-size:7px; text-anchor:start" x="112" y="377">non-smoker</text>
+<path d="M 92 388 L 106 388 L 106 383 L 92 383 z" style="fill:#e07a5f"/>
+<text style="font-size:7px; text-anchor:start" x="112" y="388">smoker</text>
+<path d="M 528 532 L 867 532 L 867 366 L 528 366 z" style="fill:#ffffff"/>
+<path d="M 528 525 L 711 525 L 711 493 L 528 493 z" style="fill:#1f6f8b"/>
+<path d="M 528 485 L 713 485 L 713 453 L 528 453 z" style="fill:#1f6f8b"/>
+<path d="M 528 445 L 727 445 L 727 413 L 528 413 z" style="fill:#1f6f8b"/>
+<path d="M 528 405 L 747 405 L 747 373 L 528 373 z" style="fill:#1f6f8b"/>
+<use xlink:href="#mbaac55092d" x="528" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="528" y="546">0</text>
+<use xlink:href="#mbaac55092d" x="602" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="602" y="546">5000</text>
+<use xlink:href="#mbaac55092d" x="676" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="676" y="546">10000</text>
+<use xlink:href="#mbaac55092d" x="751" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="751" y="546">15000</text>
+<use xlink:href="#mbaac55092d" x="825" y="532" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="825" y="546">20000</text>
+<text style="font-size:9px; text-anchor:middle" x="697" y="559">Avg charges (USD)</text>
+<use xlink:href="#me6a6efc77e" x="528" y="509" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="512">southwest</text>
+<use xlink:href="#me6a6efc77e" x="528" y="469" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="472">northwest</text>
+<use xlink:href="#me6a6efc77e" x="528" y="429" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="433">northeast</text>
+<use xlink:href="#me6a6efc77e" x="528" y="389" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="393">southeast</text>
+<path d="M 528 532 L 528 366" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 528 532 L 867 532" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:start" x="713" y="511">$12,347 | 17.9% smokers</text>
+<text style="font-size:7px; text-anchor:start" x="715" y="471">$12,451 | 17.9% smokers</text>
+<text style="font-size:7px; text-anchor:start" x="729" y="431">$13,406 | 20.7% smokers</text>
+<text style="font-size:7px; text-anchor:start" x="749" y="391">$14,735 | 25.0% smokers</text>
+<text style="font-size:10.8px; text-anchor:middle" x="697" y="360">Medical: region (southeast = most smokers)</text>
+<path d="M 86 799 L 426 799 L 426 632 L 86 632 z" style="fill:#ffffff"/>
+<path d="M 101 799 L 133 799 L 133 666 L 101 666 z" style="fill:#1f6f8b"/>
+<path d="M 141 799 L 173 799 L 173 713 L 141 713 z" style="fill:#1f6f8b"/>
+<path d="M 181 799 L 212 799 L 212 742 L 181 742 z" style="fill:#1f6f8b"/>
+<path d="M 220 799 L 252 799 L 252 751 L 220 751 z" style="fill:#1f6f8b"/>
+<path d="M 260 799 L 291 799 L 291 743 L 260 743 z" style="fill:#1f6f8b"/>
+<path d="M 299 799 L 331 799 L 331 748 L 299 748 z" style="fill:#1f6f8b"/>
+<path d="M 339 799 L 371 799 L 371 749 L 339 749 z" style="fill:#1f6f8b"/>
+<path d="M 379 799 L 410 799 L 410 747 L 379 747 z" style="fill:#1f6f8b"/>
+<use xlink:href="#mbaac55092d" x="117" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="117" y="813">18-20</text>
+<use xlink:href="#mbaac55092d" x="157" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="157" y="813">21-25</text>
+<use xlink:href="#mbaac55092d" x="196" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="196" y="813">26-30</text>
+<use xlink:href="#mbaac55092d" x="236" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="236" y="813">31-40</text>
+<use xlink:href="#mbaac55092d" x="276" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="276" y="813">41-50</text>
+<use xlink:href="#mbaac55092d" x="315" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="315" y="813">51-60</text>
+<use xlink:href="#mbaac55092d" x="355" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="355" y="813">61-70</text>
+<use xlink:href="#mbaac55092d" x="394" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="394" y="813">71+</text>
+<text style="font-size:9px; text-anchor:middle" x="256" y="826">Driver age</text>
+<use xlink:href="#me6a6efc77e" x="86" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="803">0</text>
+<use xlink:href="#me6a6efc77e" x="86" y="772" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="776">5</text>
+<use xlink:href="#me6a6efc77e" x="86" y="746" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="749">10</text>
+<use xlink:href="#me6a6efc77e" x="86" y="719" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="722">15</text>
+<use xlink:href="#me6a6efc77e" x="86" y="692" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="695">20</text>
+<use xlink:href="#me6a6efc77e" x="86" y="665" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="669">25</text>
+<use xlink:href="#me6a6efc77e" x="86" y="638" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="642">30</text>
+<text style="font-size:9px; text-anchor:middle" x="61" y="716" transform="rotate(-90 61 716)">Claims per 100 policy-years</text>
+<path d="M 86 799 L 86 632" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 86 799 L 426 799" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="117" y="664">24.9</text>
+<text style="font-size:7px; text-anchor:middle" x="157" y="711">16.1</text>
+<text style="font-size:7px; text-anchor:middle" x="196" y="741">10.6</text>
+<text style="font-size:7px; text-anchor:middle" x="236" y="749">9.0</text>
+<text style="font-size:7px; text-anchor:middle" x="276" y="742">10.4</text>
+<text style="font-size:7px; text-anchor:middle" x="315" y="746">9.6</text>
+<text style="font-size:7px; text-anchor:middle" x="355" y="748">9.3</text>
+<text style="font-size:7px; text-anchor:middle" x="394" y="745">9.7</text>
+<text style="font-size:10.8px; text-anchor:middle" x="256" y="626">Motor: claim frequency by driver age</text>
+<path d="M 528 799 L 867 799 L 867 632 L 528 632 z" style="fill:#ffffff"/>
+<path d="M 543 799 L 594 799 L 594 771 L 543 771 z" style="fill:#e07a5f"/>
+<path d="M 607 799 L 659 799 L 659 766 L 607 766 z" style="fill:#e07a5f"/>
+<path d="M 672 799 L 723 799 L 723 752 L 672 752 z" style="fill:#e07a5f"/>
+<path d="M 736 799 L 787 799 L 787 736 L 736 736 z" style="fill:#e07a5f"/>
+<path d="M 800 799 L 852 799 L 852 666 L 800 666 z" style="fill:#e07a5f"/>
+<use xlink:href="#mbaac55092d" x="569" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(563 814)">50</text>
+<text style="font-size:9px" transform="translate(540 825)">(max bonus)</text>
+<use xlink:href="#mbaac55092d" x="633" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="633" y="813">51-60</text>
+<use xlink:href="#mbaac55092d" x="697" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="697" y="813">61-80</text>
+<use xlink:href="#mbaac55092d" x="762" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="762" y="813">81-100</text>
+<use xlink:href="#mbaac55092d" x="826" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(814 814)">101+</text>
+<text style="font-size:9px" transform="translate(809 825)">(malus)</text>
+<text style="font-size:9px; text-anchor:middle" x="697" y="839">Bonus-malus score</text>
+<use xlink:href="#me6a6efc77e" x="528" y="799" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="803">0</text>
+<use xlink:href="#me6a6efc77e" x="528" y="764" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="767">10</text>
+<use xlink:href="#me6a6efc77e" x="528" y="728" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="732">20</text>
+<use xlink:href="#me6a6efc77e" x="528" y="693" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="696">30</text>
+<use xlink:href="#me6a6efc77e" x="528" y="657" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="661">40</text>
+<text style="font-size:9px; text-anchor:middle" x="503" y="716" transform="rotate(-90 503 716)">Claims per 100 policy-years</text>
+<path d="M 528 799 L 528 632" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 528 799 L 867 799" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="569" y="769">8.0</text>
+<text style="font-size:7px; text-anchor:middle" x="633" y="764">9.5</text>
+<text style="font-size:7px; text-anchor:middle" x="697" y="750">13.3</text>
+<text style="font-size:7px; text-anchor:middle" x="762" y="734">17.8</text>
+<text style="font-size:7px; text-anchor:middle" x="826" y="664">37.6</text>
+<text style="font-size:10.8px; text-anchor:middle" x="697" y="626">Motor: frequency by bonus-malus</text>
+<path d="M 86 1066 L 426 1066 L 426 899 L 86 899 z" style="fill:#ffffff"/>
+<path d="M 101 1066 L 144 1066 L 144 988 L 101 988 z" style="fill:#81b29a"/>
+<path d="M 155 1066 L 197 1066 L 197 981 L 155 981 z" style="fill:#81b29a"/>
+<path d="M 208 1066 L 250 1066 L 250 975 L 208 975 z" style="fill:#81b29a"/>
+<path d="M 261 1066 L 304 1066 L 304 962 L 261 962 z" style="fill:#81b29a"/>
+<path d="M 314 1066 L 357 1066 L 357 949 L 314 949 z" style="fill:#81b29a"/>
+<path d="M 368 1066 L 410 1066 L 410 933 L 368 933 z" style="fill:#81b29a"/>
+<use xlink:href="#mbaac55092d" x="123" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(120 1081)">A</text>
+<text style="font-size:9px" transform="translate(102 1092)">(27/km2)</text>
+<use xlink:href="#mbaac55092d" x="176" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(173 1081)">B</text>
+<text style="font-size:9px" transform="translate(155 1092)">(72/km2)</text>
+<use xlink:href="#mbaac55092d" x="229" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(226 1081)">C</text>
+<text style="font-size:9px" transform="translate(206 1092)">(222/km2)</text>
+<use xlink:href="#mbaac55092d" x="282" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(279 1081)">D</text>
+<text style="font-size:9px" transform="translate(256 1092)">(1054/km2)</text>
+<use xlink:href="#mbaac55092d" x="336" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(333 1081)">E</text>
+<text style="font-size:9px" transform="translate(309 1092)">(3744/km2)</text>
+<use xlink:href="#mbaac55092d" x="389" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(386 1081)">F</text>
+<text style="font-size:9px" transform="translate(360 1092)">(27000/km2)</text>
+<text style="font-size:9px; text-anchor:middle" x="256" y="1105">Area (median density)</text>
+<use xlink:href="#me6a6efc77e" x="86" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="1069">0</text>
+<use xlink:href="#me6a6efc77e" x="86" y="1047" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="1050">2</text>
+<use xlink:href="#me6a6efc77e" x="86" y="1028" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="1031">4</text>
+<use xlink:href="#me6a6efc77e" x="86" y="1008" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="1012">6</text>
+<use xlink:href="#me6a6efc77e" x="86" y="989" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="993">8</text>
+<use xlink:href="#me6a6efc77e" x="86" y="970" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="974">10</text>
+<use xlink:href="#me6a6efc77e" x="86" y="951" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="954">12</text>
+<use xlink:href="#me6a6efc77e" x="86" y="932" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="935">14</text>
+<use xlink:href="#me6a6efc77e" x="86" y="913" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="79" y="916">16</text>
+<text style="font-size:9px; text-anchor:middle" x="61" y="983" transform="rotate(-90 61 983)">Claims per 100 policy-years</text>
+<path d="M 86 1066 L 86 899" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 86 1066 L 426 1066" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="123" y="986">8.2</text>
+<text style="font-size:7px; text-anchor:middle" x="176" y="980">8.8</text>
+<text style="font-size:7px; text-anchor:middle" x="229" y="974">9.5</text>
+<text style="font-size:7px; text-anchor:middle" x="282" y="960">10.9</text>
+<text style="font-size:7px; text-anchor:middle" x="336" y="947">12.2</text>
+<text style="font-size:7px; text-anchor:middle" x="389" y="931">13.9</text>
+<text style="font-size:10.8px; text-anchor:middle" x="256" y="893">Motor: frequency rises with urban density</text>
+<path d="M 528 1066 L 867 1066 L 867 899 L 528 899 z" style="fill:#ffffff"/>
+<path d="M 543 1066 L 560 1066 L 560 1010 L 543 1010 z" style="fill:#1f6f8b"/>
+<path d="M 589 1066 L 606 1066 L 606 1023 L 589 1023 z" style="fill:#1f6f8b"/>
+<path d="M 634 1066 L 652 1066 L 652 907 L 634 907 z" style="fill:#1f6f8b"/>
+<path d="M 680 1066 L 697 1066 L 697 1018 L 680 1018 z" style="fill:#1f6f8b"/>
+<path d="M 726 1066 L 743 1066 L 743 1053 L 726 1053 z" style="fill:#1f6f8b"/>
+<path d="M 771 1066 L 789 1066 L 789 1064 L 771 1064 z" style="fill:#1f6f8b"/>
+<path d="M 817 1066 L 834 1066 L 834 1065 L 817 1065 z" style="fill:#1f6f8b"/>
+<path d="M 560 1066 L 578 1066 L 578 1061 L 560 1061 z" style="fill:#e07a5f"/>
+<path d="M 606 1066 L 623 1066 L 623 1053 L 606 1053 z" style="fill:#e07a5f"/>
+<path d="M 652 1066 L 669 1066 L 669 983 L 652 983 z" style="fill:#e07a5f"/>
+<path d="M 697 1066 L 715 1066 L 715 1011 L 697 1011 z" style="fill:#e07a5f"/>
+<path d="M 743 1066 L 760 1066 L 760 1018 L 743 1018 z" style="fill:#e07a5f"/>
+<path d="M 789 1066 L 806 1066 L 806 1027 L 789 1027 z" style="fill:#e07a5f"/>
+<path d="M 834 1066 L 852 1066 L 852 987 L 834 987 z" style="fill:#e07a5f"/>
+<use xlink:href="#mbaac55092d" x="560" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(538 1091) rotate(-30)">&lt;500</text>
+<use xlink:href="#mbaac55092d" x="606" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(578 1095) rotate(-30)">500-1k</text>
+<use xlink:href="#mbaac55092d" x="652" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(621 1096) rotate(-30)">1k-1.5k</text>
+<use xlink:href="#mbaac55092d" x="697" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(667 1096) rotate(-30)">1.5k-5k</text>
+<use xlink:href="#mbaac55092d" x="743" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(715 1094) rotate(-30)">5k-20k</text>
+<use xlink:href="#mbaac55092d" x="789" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(751 1100) rotate(-30)">20k-100k</text>
+<use xlink:href="#mbaac55092d" x="834" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(807 1094) rotate(-30)">100k+</text>
+<use xlink:href="#me6a6efc77e" x="528" y="1066" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="1069">0</text>
+<use xlink:href="#me6a6efc77e" x="528" y="1034" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="1037">10</text>
+<use xlink:href="#me6a6efc77e" x="528" y="1002" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="1005">20</text>
+<use xlink:href="#me6a6efc77e" x="528" y="970" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="973">30</text>
+<use xlink:href="#me6a6efc77e" x="528" y="937" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="941">40</text>
+<use xlink:href="#me6a6efc77e" x="528" y="905" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="521" y="909">50</text>
+<text style="font-size:9px; text-anchor:middle" x="503" y="983" transform="rotate(-90 503 983)">%</text>
+<path d="M 528 1066 L 528 899" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 528 1066 L 867 1066" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:10.8px; text-anchor:middle" x="697" y="893">Motor: 0.16% of claims (100k+) = 24.6% of EUR</text>
+<path d="M 788 911 L 802 911 L 802 906 L 788 906 z" style="fill:#1f6f8b"/>
+<text style="font-size:7px; text-anchor:start" x="808" y="911">% of claims</text>
+<path d="M 788 921 L 802 921 L 802 916 L 788 916 z" style="fill:#e07a5f"/>
+<text style="font-size:7px; text-anchor:start" x="808" y="921">% of claim EUR</text>
+<text style="font-size:14px; text-anchor:middle" x="464" y="18">Insurance cost drivers &amp; motor claim frequency (preview rendered from SQL outputs, full data)</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="41" y="50">1,337</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="41" y="65">Insured people</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="179" y="50">$13,279</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="179" y="65">Avg charges</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="317" y="50">3.80x</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="317" y="65">Smoker loading</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="455" y="50">678,013</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="455" y="65">Motor policies</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="593" y="50">358,360</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="593" y="65">Policy-years</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="731" y="50">10.06/100</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="731" y="65">Claim freq.</text>
+<text style="font-weight:700;font-size:13px; text-anchor:middle;fill:#1f6f8b" x="869" y="50">EUR 2,266</text>
+<text style="font-size:9px; text-anchor:middle;fill:#555555" x="869" y="65">Avg severity</text>
+</svg>
