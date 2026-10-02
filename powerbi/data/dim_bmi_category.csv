@@ -1,0 +1,5 @@
+bmi_key,bmi_category,bmi_range
+1,1: Underweight,< 18.5
+2,2: Normal,18.5 - 24.9
+3,3: Overweight,25 - 29.9
+4,4: Obese,>= 30

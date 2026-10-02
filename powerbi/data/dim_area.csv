@@ -1,0 +1,7 @@
+area_key,area_code,min_density,max_density,median_density
+1,A,6,50,24
+2,B,50,95,76
+3,C,101,495,233
+4,D,528,1974,907
+5,E,2039,9307,3744
+6,F,12374,27000,24834
