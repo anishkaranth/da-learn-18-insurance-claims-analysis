@@ -1,0 +1,35 @@
+"""Project-specific settings used by run_pipeline.py (tables to export, snapshot contents)."""
+CONFIG = {
+    "project": "da-learn-18-insurance-claims-analysis",
+    "dataset": ("Medical Cost Personal Dataset (Kaggle mirichoi0218/insurance) + French Motor TPL claims "
+                "freMTPL2freq/freMTPL2sev (CASdatasets via OpenML 41214/41215, CC0)"),
+    "raw_files": ["insurance.csv", "freMTPL2freq.csv", "freMTPL2sev.csv"],
+    "star": ["fact_medical_member", "dim_med_region", "dim_bmi_category",
+             "fact_motor_policy", "fact_motor_claim", "dim_area", "dim_fr_region", "dim_vehicle", "dim_driver_age_band"],
+    "clean": ["cln_medical", "cln_motor_claim"],
+    "headline": ["members", "avg_charges", "median_charges", "smoker_pct", "avg_charges_smoker",
+                 "avg_charges_non_smoker", "smoker_loading_x", "obese_pct", "policies", "exposure_years",
+                 "claims", "claim_frequency", "claim_records", "avg_severity", "median_severity",
+                 "pure_premium", "large_loss_share_pct"],
+    "shot_config": {"currency": "medical charges USD; motor claim amounts EUR",
+                    "frequency": "SUM(claim_nb capped at 4) / SUM(exposure capped at 1)",
+                    "medical_outlier_rule": "charges > Q3 + 1.5*IQR (flag only)",
+                    "large_loss_rule": "claim_amount > p99 (flag only)",
+                    "sample_rule": "medical: member row number % 10 = 1; motor: IDpol % 2000 = 7 (policies + their claims)"},
+    "breakdowns": {
+        "med_smoker": "SELECT * FROM a_med_smoker ORDER BY smoker_status",
+        "med_bmi_smoker": "SELECT * FROM a_med_bmi_smoker ORDER BY bmi_category",
+        "med_region": "SELECT * FROM a_med_region ORDER BY avg_charges DESC",
+        "med_drivers": "SELECT * FROM a_med_drivers",
+        "motor_driver_age": "SELECT * FROM a_motor_driver_age ORDER BY driver_age_band",
+        "motor_bonus_malus": "SELECT * FROM a_motor_bonus_malus ORDER BY bonus_malus_band",
+        "motor_area": "SELECT * FROM a_motor_area ORDER BY area_code",
+        "motor_severity_bands": "SELECT * FROM a_motor_severity_bands ORDER BY claim_size_band",
+    },
+    "highlights": {
+        "smoker_vs_non": "SELECT smoker_status, members, avg_charges FROM a_med_smoker ORDER BY smoker_status",
+        "obese_smokers": "SELECT bmi_category, avg_charges_smoker, avg_charges_non_smoker FROM a_med_bmi_smoker ORDER BY bmi_category",
+        "frequency_by_driver_age": "SELECT driver_age_band, claim_frequency FROM a_motor_driver_age ORDER BY driver_age_band",
+        "frequency_by_area": "SELECT area_code, claim_frequency FROM a_motor_area ORDER BY area_code",
+    },
+}
