@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402.9725pt" height="264.135853pt" viewBox="0 0 402.9725 264.135853" version="1.1" font-family="sans-serif">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 264 L 403 264 L 403 0 L 0 0 z" style="fill:#ffffff"/>
+<path d="M 39 221 L 396 221 L 396 21 L 39 21 z" style="fill:#ffffff"/>
+<path d="M 55 221 L 73 221 L 73 154 L 55 154 z" style="fill:#1f6f8b"/>
+<path d="M 103 221 L 121 221 L 121 169 L 103 169 z" style="fill:#1f6f8b"/>
+<path d="M 151 221 L 169 221 L 169 31 L 151 31 z" style="fill:#1f6f8b"/>
+<path d="M 199 221 L 217 221 L 217 164 L 199 164 z" style="fill:#1f6f8b"/>
+<path d="M 247 221 L 265 221 L 265 206 L 247 206 z" style="fill:#1f6f8b"/>
+<path d="M 295 221 L 313 221 L 313 218 L 295 218 z" style="fill:#1f6f8b"/>
+<path d="M 343 221 L 361 221 L 361 220 L 343 220 z" style="fill:#1f6f8b"/>
+<path d="M 73 221 L 91 221 L 91 215 L 73 215 z" style="fill:#e07a5f"/>
+<path d="M 121 221 L 139 221 L 139 205 L 121 205 z" style="fill:#e07a5f"/>
+<path d="M 169 221 L 187 221 L 187 122 L 169 122 z" style="fill:#e07a5f"/>
+<path d="M 217 221 L 235 221 L 235 156 L 217 156 z" style="fill:#e07a5f"/>
+<path d="M 265 221 L 283 221 L 283 164 L 265 164 z" style="fill:#e07a5f"/>
+<path d="M 313 221 L 332 221 L 332 174 L 313 174 z" style="fill:#e07a5f"/>
+<path d="M 361 221 L 380 221 L 380 127 L 361 127 z" style="fill:#e07a5f"/>
+<defs>
+<path id="me5c5453dcc" d="M 0 0 L 0 4" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#me5c5453dcc" x="73" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(51 246) rotate(-30)">&lt;500</text>
+<use xlink:href="#me5c5453dcc" x="121" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(93 250) rotate(-30)">500-1k</text>
+<use xlink:href="#me5c5453dcc" x="169" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(139 251) rotate(-30)">1k-1.5k</text>
+<use xlink:href="#me5c5453dcc" x="217" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(187 251) rotate(-30)">1.5k-5k</text>
+<use xlink:href="#me5c5453dcc" x="265" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(237 249) rotate(-30)">5k-20k</text>
+<use xlink:href="#me5c5453dcc" x="313" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(276 255) rotate(-30)">20k-100k</text>
+<use xlink:href="#me5c5453dcc" x="361" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px" transform="translate(334 249) rotate(-30)">100k+</text>
+<defs>
+<path id="m843aeb9a33" d="M 0 0 L -4 0" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#m843aeb9a33" x="39" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="224">0</text>
+<use xlink:href="#m843aeb9a33" x="39" y="183" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="186">10</text>
+<use xlink:href="#m843aeb9a33" x="39" y="144" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="147">20</text>
+<use xlink:href="#m843aeb9a33" x="39" y="106" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="109">30</text>
+<use xlink:href="#m843aeb9a33" x="39" y="67" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="71">40</text>
+<use xlink:href="#m843aeb9a33" x="39" y="29" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="32">50</text>
+<text style="font-size:9px; text-anchor:middle" x="14" y="121" transform="rotate(-90 14 121)">%</text>
+<path d="M 39 221 L 39 21" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 39 221 L 396 221" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:10.8px; text-anchor:middle" x="217" y="15">Motor: 0.16% of claims (100k+) = 24.6% of EUR</text>
+<path d="M 317 33 L 331 33 L 331 28 L 317 28 z" style="fill:#1f6f8b"/>
+<text style="font-size:7px; text-anchor:start" x="336" y="33">% of claims</text>
+<path d="M 317 44 L 331 44 L 331 39 L 317 39 z" style="fill:#e07a5f"/>
+<text style="font-size:7px; text-anchor:start" x="336" y="44">% of claim EUR</text>
+</svg>

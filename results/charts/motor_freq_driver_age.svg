@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402.973203pt" height="257.191016pt" viewBox="0 0 402.973203 257.191016" version="1.1" font-family="sans-serif">
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 257 L 403 257 L 403 0 L 0 0 z" style="fill:#ffffff"/>
+<path d="M 39 221 L 396 221 L 396 21 L 39 21 z" style="fill:#ffffff"/>
+<path d="M 55 221 L 88 221 L 88 61 L 55 61 z" style="fill:#1f6f8b"/>
+<path d="M 97 221 L 130 221 L 130 118 L 97 118 z" style="fill:#1f6f8b"/>
+<path d="M 138 221 L 171 221 L 171 153 L 138 153 z" style="fill:#1f6f8b"/>
+<path d="M 180 221 L 213 221 L 213 163 L 180 163 z" style="fill:#1f6f8b"/>
+<path d="M 221 221 L 255 221 L 255 154 L 221 154 z" style="fill:#1f6f8b"/>
+<path d="M 263 221 L 296 221 L 296 159 L 263 159 z" style="fill:#1f6f8b"/>
+<path d="M 305 221 L 338 221 L 338 161 L 305 161 z" style="fill:#1f6f8b"/>
+<path d="M 346 221 L 380 221 L 380 159 L 346 159 z" style="fill:#1f6f8b"/>
+<defs>
+<path id="ma15b7d30f6" d="M 0 0 L 0 4" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#ma15b7d30f6" x="72" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="72" y="235">18-20</text>
+<use xlink:href="#ma15b7d30f6" x="113" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="113" y="235">21-25</text>
+<use xlink:href="#ma15b7d30f6" x="155" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="155" y="235">26-30</text>
+<use xlink:href="#ma15b7d30f6" x="196" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="196" y="235">31-40</text>
+<use xlink:href="#ma15b7d30f6" x="238" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="238" y="235">41-50</text>
+<use xlink:href="#ma15b7d30f6" x="280" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="280" y="235">51-60</text>
+<use xlink:href="#ma15b7d30f6" x="321" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="321" y="235">61-70</text>
+<use xlink:href="#ma15b7d30f6" x="363" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:middle" x="363" y="235">71+</text>
+<text style="font-size:9px; text-anchor:middle" x="217" y="248">Driver age</text>
+<defs>
+<path id="m60c4f8a592" d="M 0 0 L -4 0" style="stroke:#000000;stroke-width:0.8"/>
+</defs>
+<use xlink:href="#m60c4f8a592" x="39" y="221" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="224">0</text>
+<use xlink:href="#m60c4f8a592" x="39" y="189" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="192">5</text>
+<use xlink:href="#m60c4f8a592" x="39" y="157" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="160">10</text>
+<use xlink:href="#m60c4f8a592" x="39" y="125" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="128">15</text>
+<use xlink:href="#m60c4f8a592" x="39" y="93" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="96">20</text>
+<use xlink:href="#m60c4f8a592" x="39" y="61" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="64">25</text>
+<use xlink:href="#m60c4f8a592" x="39" y="28" style="stroke:#000000;stroke-width:0.8"/>
+<text style="font-size:9px; text-anchor:end" x="32" y="32">30</text>
+<text style="font-size:9px; text-anchor:middle" x="14" y="121" transform="rotate(-90 14 121)">Claims per 100 policy-years</text>
+<path d="M 39 221 L 39 21" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<path d="M 39 221 L 396 221" style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square"/>
+<text style="font-size:7px; text-anchor:middle" x="72" y="60">24.9</text>
+<text style="font-size:7px; text-anchor:middle" x="113" y="116">16.1</text>
+<text style="font-size:7px; text-anchor:middle" x="155" y="151">10.6</text>
+<text style="font-size:7px; text-anchor:middle" x="196" y="162">9.0</text>
+<text style="font-size:7px; text-anchor:middle" x="238" y="153">10.4</text>
+<text style="font-size:7px; text-anchor:middle" x="280" y="158">9.6</text>
+<text style="font-size:7px; text-anchor:middle" x="321" y="160">9.3</text>
+<text style="font-size:7px; text-anchor:middle" x="363" y="157">9.7</text>
+<text style="font-size:10.8px; text-anchor:middle" x="217" y="15">Motor: claim frequency by driver age</text>
+</svg>
